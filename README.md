@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fl3tch3r732
-- 👀 I’m interested in java; flutter; backend dev; UI&UX dev
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on any java project
+- 👀 I’m interested in java; javascript; backend dev; UI&UX dev
+- 🌱 I’m currently learning java and react
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me tamenoufryde@gmail.com
 
 <!---
