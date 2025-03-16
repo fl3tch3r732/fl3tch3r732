@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fl3tch3r732
+- 👋 Hi, I’m Fletcher
 - 👀 I’m interested in java; javascript; backend dev; UI&UX dev
 - 🌱 I’m currently learning java and react
 - 💞️ I’m looking to collaborate on any project
